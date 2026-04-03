@@ -54,9 +54,7 @@ VerifMot+ ne propose pas de creation de compte ni d'authentification.
 
 ## 5) Services tiers
 
-VerifMot+ contient un bouton de don volontaire ouvrant PayPal dans le navigateur de l'utilisateur :
-
-- `https://www.paypal.com/donate/?token=xv8d5UfU0G_NO9KXsyaFbQJiOpuIOQK_7CZMyW1A6ryKz2FFvGfCvYlfYx-fv1unlMpqI-zz2BeVv9ts&locale.x=fr_FR`
+VerifMot+ contient un bouton de don volontaire ouvrant PayPal dans le navigateur de l'utilisateur
 
 Le don est ponctuel, facultatif et n'est soumis a aucune obligation.
 Il s'agit uniquement d'un moyen d'offrir un soutien au projet.
